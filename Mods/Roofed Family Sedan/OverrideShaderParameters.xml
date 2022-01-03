@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OverrideShaderParameters>
+	<!-- This hack requires Version 1.20.1 of the Mod Launcher to function  -->
+
+	<!-- Cars -->
+	<Shader Name="famil_vRoof_m"> <!-- Makes the roof look substantially better when it's translucent -->
+		<Parameter Name="2SID"/>
+	</Shader>
+</OverrideShaderParameters>
